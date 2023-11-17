@@ -1,6 +1,6 @@
 {
     "name": "Virulent_Cards",
-    "version_number": "1.0.1",
+    "version_number": "1.0.2",
     "website_url": "https://github.com/ToxicCanna/Virulent_Cards",
     "description": "A BepInEx plugin that adds a custom card pack",
     "dependencies": [
