@@ -10,7 +10,7 @@
   "baseHealth": 1,
   "bloodCost": 1,
   "tribes": [ "Squirrel", "Bird", "Canine", "Hooved", "Reptile", "Insect" ],
-  "abilities": [ "DrawCopyOnDeath", "Morsel", "GainAttackOnKill" ],
+  "abilities": [ "DrawCopyOnDeath", "Morsel", "GainAttackOnKill", "TripleBlood" ],
   "traits": [ "Ant", "KillsSurvivors", "SatisfiesRingTrial" ],
   "emissionTexture": "Virulent_Harbinger_of_ruin_emission.png",
   "texture": "Virulent_Harbinger_of_ruin.png"
